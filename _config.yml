@@ -11,7 +11,7 @@ paginate: 5
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-<<<<<<< HEAD
+
 title : 上善若水
 tagline: impossible nothing
 author : 
@@ -20,16 +20,7 @@ author :
   github : ifrog
   twitter : username
   feedburner : feedname
-=======
-title : flyfair
-tagline: Site Tagline
-author : iflyfair
-  name : flyfair Zhang
-  email : iflyfair@gmail.com
-  github : ifrog
-  #twitter : username
-  #feedburner : feedname
->>>>>>> 235ac36bcb587964cfc1ed284213faf2ead94a00
+
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
